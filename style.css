@@ -121,3 +121,37 @@ border-radius: 5px;
     }
     
 }
+
+
+.dev{
+    text-align: center; font-size: 1vw;
+    padding-bottom: 20px;
+}
+
+@media screen and (max-width:576px) {
+
+    .dev{
+        font-size: 0.5rem;
+    }
+    
+}
+
+@media screen and (max-width:576px) {
+
+    .dev{
+        font-size: 0.5rem;
+    }
+    
+}
+
+.sec-title{
+    text-align: center; font-size: 3vw; padding-top: 4vh; color: rgba(0, 0, 0, 0.731); font-family: serif;
+}
+
+@media screen and (max-width:576px) {
+
+    .sec-title{
+        font-size: 5vw;
+    }
+    
+}
