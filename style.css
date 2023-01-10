@@ -145,13 +145,17 @@ border-radius: 5px;
 }
 
 .sec-title{
-    text-align: center; font-size: 3vw; padding-top: 4vh; color: rgba(0, 0, 0, 0.731); font-family: serif;
+    text-align: center; 
+    font-size: 3vw; 
+    padding-top: 4vh; 
+    color: rgba(0, 0, 0, 0.731); 
+    font-family: serif;
 }
 
 @media screen and (max-width:576px) {
 
     .sec-title{
-        font-size: 5vw;
+        font-size: 4vw;
     }
     
 }
